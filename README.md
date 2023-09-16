@@ -1,4 +1,4 @@
-![image](https://github.com/pratikranjan2212/pratikranjan2212/assets/128955674/3d5f0c9b-8ddc-4c15-a1fb-755c7cf52853)
+![image](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Pratik Ranjan</h1>
 <h3 align="center">A passionate learner from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/F-Hiz_YBVXwAAAAC/bibeknaik-busy.gif">
