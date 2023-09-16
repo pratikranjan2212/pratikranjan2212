@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Tech**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I love music and I would love to play flute.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
