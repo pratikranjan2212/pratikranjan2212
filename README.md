@@ -16,11 +16,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pratikranjan09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratikranjan09" height="30" width="40" /></a>
+<a href="https://twitter.com/pratikranjan09" target="blank"><img align="center" src="https://img.freepik.com/free-vector/twitter-new-2023-x-logo-white-background-vector_1017-45422.jpg?w=740&t=st=1694852646~exp=1694853246~hmac=66ed140796e00dd8acf7ced5f7b56387fac4000bb7b9fc6a640e74c1a9d8d84b" alt="pratikranjan09" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/pratik-ranjan-m2212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik-ranjan-m2212" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/x61csuj19c6vahywznoz154ls?fbclid=IwAR0XFpecJZ_YMqcrLXGqUE4gMWO-QtOWQhBUxnAmGtXOj8ZMhLVT1_C906Y" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" alt="pratik-ranjan-m2212" height="40" width="50" /></a>
 <a href="https://kaggle.com/pratik ranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pratik ranjan" height="30" width="40" /></a>
-<a href="https://fb.com/pratik ranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pratik ranjan" height="30" width="40" /></a>
-<a href="https://instagram.com/praaatiiiik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="praaatiiiik" height="30" width="40" /></a>
+<a href="https://www.threads.net/@praaatiiiik" target="blank"><img align="center" src="https://seeklogo.com/images/T/threads-by-instagram-logo-20008C5295-seeklogo.com.png?v=638252100920000000" alt="praaatiiiik" height="40" width="35" /></a>
+<a href="https://fb.com/pratik ranjan" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg" alt="pratik ranjan" height="40" width="50" /></a>
+<a href="https://instagram.com/praaatiiiik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="praaatiiiik" height="40" width="50" /></a>
+<a href="https://www.coursera.org/user/4b8ddab02d96f46dc2304d809d1d0a14" target="blank"><img align="center" src="https://www.langoly.com/wp-content/uploads/2021/09/coursera-logo.png" alt="praaatiiiik" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
