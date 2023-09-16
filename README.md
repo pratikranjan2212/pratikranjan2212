@@ -1,7 +1,7 @@
 ![image](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Pratik Ranjan</h1>
 <h3 align="center">A passionate learner from India</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/F-Hiz_YBVXwAAAAC/bibeknaik-busy.gif">
+<img align="right" alt="coding" width="350" src="https://media.tenor.com/F-Hiz_YBVXwAAAAC/bibeknaik-busy.gif">
 
 <p align="left"> <a href="https://twitter.com/pratikranjan09" target="blank"><img src="https://img.shields.io/twitter/follow/pratikranjan09?logo=twitter&style=for-the-badge" alt="pratikranjan09" /></a> </p>
 
