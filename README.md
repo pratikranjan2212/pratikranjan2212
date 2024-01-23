@@ -1,4 +1,4 @@
-![image](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![image](https://github.com/pratikranjan2212/pratikranjan2212/blob/main/LinkedIn%20Banner%20Template.gif)
 
 <h1 align="center">Hi 👋, I'm Pratik Ranjan</h1>
 <h3 align="center">A passionate learner from India</h3>
