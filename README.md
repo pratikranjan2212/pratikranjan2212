@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/pratikranjan09" target="blank"><img src="https://img.shields.io/twitter/follow/pratikranjan09?logo=twitter&style=for-the-badge" alt="pratikranjan09" /></a> </p>
 
-- 🌱 I’m currently learning **Python, SQL**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Tech**
 
@@ -25,4 +25,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.sarvap.in/wp-content/uploads/mysql.png" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Unity_Hub_Logo.png" alt="unity" width="40" height="40"/> </a>  </p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/pratikranjan2212/pratikranjan2212/output/snake.svg" alt="Snake animation" />
+
+###
 
