@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/pratikranjan09" target="blank"><img src="https://img.shields.io/twitter/follow/pratikranjan09?logo=twitter&style=for-the-badge" alt="pratikranjan09" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Data Structures**
 
 - 💬 Ask me about **Tech**
 
